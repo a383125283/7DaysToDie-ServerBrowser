@@ -1,7 +1,0 @@
-{
-  "version": "0.9.3",
-  "validation": "Dependency preparation, core build, single-file build and CoreTests/AppearanceTests passed",
-  "portableBytes": 1058304,
-  "sourceFilesUnmodified": true,
-  "bundledGameDlls": false
-}

@@ -1,2 +1,0 @@
-Anan Original Symbols	OriginalSymbols.ttf	OriginalSymbols.cmap
-Anan Latin Symbols	LatinSymbols.ttf	LatinSymbols.cmap
